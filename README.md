@@ -1,2 +1,3 @@
 # test_task
-Test task
+Image classification using numpy, pillow only
+
