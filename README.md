@@ -1,3 +1,3 @@
-# test_task
+# Desk
 Image classification using numpy, pillow only
 
